@@ -1,6 +1,10 @@
 # Convert .CUBE to .PNG  + LUT package
 # LUT Processor
 
+## Download
+Download the latest version from [[Releases page](https://github.com/yourusername/lut-processor/releases)](https://github.com/tinapav47-ux/LUT_processor/releases/tag/v1.0.0)
+
+
 ## Description
 Application for creating of files PNG. The original cube image is already built into the program - just upload your .CUBE files and get ready-made PNG files.
 
